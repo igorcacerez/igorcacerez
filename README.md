@@ -27,6 +27,7 @@ My name is Igor Cacerez, and I am a Software Development Teacher who is passiona
 ![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-292D3E?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-292D3E?style=flat&logo=PostgreSQL)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-292D3E?style=flat&logo=docker)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 

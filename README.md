@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/igorcacerez/">
-  <img align="left" alt="Igor Cacerez's LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+  <img align="left" alt="Igor Cacerez's LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
 </a>
 
 My name is Igor Cacerez, and I am a Software Development Teacher who is passionate about building technology, teaching, and learning new technologies.
@@ -28,9 +28,3 @@ My name is Igor Cacerez, and I am a Software Development Teacher who is passiona
 ![MySQL](https://img.shields.io/badge/-MySQL-292D3E?style=flat&logo=MySQL)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-292D3E?style=flat&logo=PostgreSQL)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-292D3E?style=flat&logo=docker)&nbsp;
-
-## &#x1f4c8; GitHub Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorcacerez&show_icons=true&locale=en&layout=compact&theme=default" alt="igorcacerez" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=igorcacerez&theme=default" alt="igorcacerez" /></p>
